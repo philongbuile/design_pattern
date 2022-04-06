@@ -1,4 +1,4 @@
-#Iterator pattern
+# Iterator pattern
 ![image](https://user-images.githubusercontent.com/80462415/162025548-f70f2d9c-eca6-450f-be8e-cb371e18d1ae.png)
 
 You may visit these websites for more information about this pattern: 
