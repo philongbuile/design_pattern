@@ -12,4 +12,9 @@ The publisher maintains a list of subscribers and knows which magazines they’r
 
 About the Structure, simply, we need an Interface for "Subjects" or "Publishers", and an Interface for "Subscribers" or "Observers" and the concrete instances of them.
 
-Concrete Subjects and 
+Concrete Subjects have a list of Observers, requires method for notifyAllObservers()
+
+Concrete Observers have an update(context) method, and the constructor of Observer will let the Subjects add the observers into its list.
+![image](https://user-images.githubusercontent.com/80462415/162623437-f8b88a18-330f-44e6-ab44-2162f6a7715a.png)
+
+Then things will be done, good luck !
