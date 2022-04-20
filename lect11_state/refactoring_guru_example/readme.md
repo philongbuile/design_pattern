@@ -12,5 +12,5 @@ The button and swithces in your smartphone bahave differently depending on the c
 1. When the phone is unlocked, pressing buttons leads to executing various functions
 2. when the phone is locked, pressing any button leads to the unlokc screen
 3. When the phone's charge is low, pressing any button shows the chargin screen
-#pseudocode
+# pseudocode
 ![image](https://user-images.githubusercontent.com/80462415/164152740-edcb4bca-086e-488f-8975-db1845b4e3df.png)
