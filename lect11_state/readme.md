@@ -22,5 +22,12 @@ The State pattern is related to the concept of Finite-State Machine
  
  ![image](https://user-images.githubusercontent.com/80462415/164146794-42073e9d-e5c5-4e03-a501-3c7e435f543e.png)
 
-## 😱 end
-check out some example
+## ⌨️ keyboardsim.java example
+Imagine we have a keyboard with the key caps: Q,CAPS_LOCK, SHIFT, FN
+Try to implement all the combination of the functions when we use these key:
+- Press Q -> q
+- Hold Shift  + Press Q -> Q
+- Press CAPS_LOCK + Press Q -> Q
+- Press CAPS_LOCK + Hold Shift + Press Q ->  q
+- ...
+We could see, that after some few thoughts, we have an explosion of states. But who cares, there is no free lunch 🤦
