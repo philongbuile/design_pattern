@@ -1,5 +1,8 @@
 # Design pattern 
-🐹 Each folder contains a different design pattern explanation and example codes for them. You could find it every where on the internet. 
+🐹 Each folder contains a different design pattern explanation and example codes for them. 
+
+You could find it every where on the internet. 
 
 
-![image](https://user-images.githubusercontent.com/80462415/162028225-0e5ba93b-449a-4027-82a7-c5350c8a84e8.png)
+![image](https://user-images.githubusercontent.com/80462415/164148247-1cee66bb-524e-4023-8ca1-f5f48fef2ec9.png)
+
