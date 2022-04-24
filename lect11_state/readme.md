@@ -1,6 +1,13 @@
 ℹ️ Source : https://refactoring.guru/design-patterns/state
 
 ℹ️ Source : https://gpcoder.com/4785-huong-dan-java-design-pattern-state/
+## Real-World Analogy
+The buttons and switches in your smartphone behave differently depending on the current state of the device:
+
+- When the phone is unlocked, pressing buttons leads to executing various functions.
+- When the phone is locked, pressing any button leads to the unlock screen.
+- When the phone’s charge is low, pressing any button shows the charging screen.
+![image](https://user-images.githubusercontent.com/80462415/164971003-440b91d1-1b51-4f00-9190-b9ae37de37e0.png)
 
 ## What is State Pattern ? 
 State Pattern is one eof the Behavior Patterns. It allows one object chnage its state when its internal state change.
