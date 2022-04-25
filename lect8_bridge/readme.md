@@ -1,7 +1,7 @@
 # Brigde Pattern
 
 > Source ℹ️: https://refactoring.guru/design-patterns/bridge
-> package lect12_visitor.second_visitor_implement;
+> ![image](https://user-images.githubusercontent.com/80462415/165088146-df96256b-c25d-4859-b941-a4bd18d38de4.png)
 
 ## Intent 📃
 **Bridge** is a structural design pattern that lets you split a large class or a set of closely related classes into two separate hiearchies - abstraction and implementation - which can be developed independently of each other
