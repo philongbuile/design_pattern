@@ -7,3 +7,6 @@
 1. Product declares the inteface, which is common to all objects that can be produced by the creator and its subclasses
 2. Concrete PRoductsa re different implementations of the product interface
 3. The Creator class declares the factory method that returns new product objects. It's important that the return type of this method matches the product interface
+
+## Final Conclusion
+- The thing we are doing is OBVIOUSLY **HIDING** some information, actually the code for some classes or method that we or clients do not want to touch or to know. Simply, we provide the client a **factory** and the client just need to come to the factory to ask for some products without acknowledging any of the processes that factory used.
